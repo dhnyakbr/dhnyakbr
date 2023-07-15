@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-!(https://github-readme-stats.vercel.app/api?username=dhnyakbr&theme=algolia&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=dhnyakbr&theme=algolia&show_icons=true)
 
 
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=dhnyakbr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhnyakbr&layout=compact)
 
 
 <!--
