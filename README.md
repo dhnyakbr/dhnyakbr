@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhnyakbr&layout=compact)
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhnyakbr)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dhnyakbr)
 
 
 <!--
